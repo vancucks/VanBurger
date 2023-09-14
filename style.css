@@ -274,6 +274,14 @@ footer{
     align-items: center;
     margin-bottom: 20px;
 }
+.inneritem a {
+    text-decoration: none;
+}
+.inneritem h2{
+    color: #e8e7e7;
+    text-decoration: none;
+}
+
 .inneritem .textbar a{
     text-decoration: none;
     color: white;
@@ -288,5 +296,9 @@ footer{
     color: #111;
 }
 footer p {
+    font-size: 12px;
     color: #e8e7e7;
+    margin:20px auto;
+    font-weight: 500;
+    text-align: center;
 }
